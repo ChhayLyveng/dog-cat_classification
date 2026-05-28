@@ -1,9 +1,10 @@
+streamlit
 matplotlib
 seaborn
 numpy
 pandas
 scikit-learn
+pillow
 pillow-heif
 torch
 opencv-python
-streamlit
