@@ -7,4 +7,4 @@ scikit-learn
 pillow
 pillow-heif
 torch
-opencv-python
+opencv-python-headless
